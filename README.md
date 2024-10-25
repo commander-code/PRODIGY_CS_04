@@ -1,4 +1,4 @@
-I'd be glad to create a comprehensive README.md documentation for the provided code, but with a strong emphasis on security and ethical considerations:
+
 
 **WARNING: Keylogging is a serious security and privacy violation. This code snippet demonstrates a basic keylogging functionality, but using it without consent is illegal and unethical.**
 
